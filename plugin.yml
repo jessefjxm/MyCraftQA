@@ -1,0 +1,19 @@
+name: MyCraftQA
+main: com.mycraft.qa.QA
+version: 1.0
+author: Jessefjxm
+description: 用于寻宝活动的简单插件，提供问答、统计、发放奖品功能。
+softdepend: [PlaceholderAPI]
+commands:
+  qa:
+    description: 问题
+  qagetreward:
+    description: 兑换奖品
+  qacheck:
+    description: 查看进度
+  qareload:
+    description: 重载
+  qatestclear:
+    description: 清空
+  回答:
+    description: 回答

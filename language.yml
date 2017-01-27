@@ -1,0 +1,19 @@
+language:
+  already_opened: §c你已经扫荡过这个宝箱了.
+  answer_correct: §a你成功打开了宝箱！
+  answer_correct_first: §a看上去你是第一个发现宝箱的人。里面的宝藏异常丰厚。
+  answer_false: §c你的答案看上去对宝箱毫无作用。
+  answer_noperm: §c你还没找到对应的宝箱，或者是太久没有响应导致宝箱又关上了。
+  check: "§a已发现的宝箱: §f%s§7/§e%s"
+  format_error: §c错误的使用方法.
+  get_reward: §e你成功领取了所有的奖励.
+  help: §b指令使用指南
+  language_no_text: §c查无此文.
+  must_be_player: §fYou must be a player!
+  no_perm: §c权限不足.
+  plugin_name: '§7§l[§d神秘宝箱§7§l] '
+  plugin_enabled: §fPlugin Enabled.
+  plugin_disabled: §fPlugin disabled.
+  question: §f宝箱上刻着一行谜题，要求你输入正确的答案。点击§e下面的文字§f，输入你的回答：
+  reload_complete: §f重载配置文件和数据完成.
+  time_format: yyyy/MM/dd
